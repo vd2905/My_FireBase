@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167781674351",
+    "project_id": "darshan-firebase",
+    "storage_bucket": "darshan-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167781674351:android:bf3bd2edc0f76abafa8c9a",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167781674351-cu79e3a01j28ik34gk22bbljhjrf1jap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebase",
+            "certificate_hash": "1f9f549d12c6de61faee379175a5940c35bdce08"
+          }
+        },
+        {
+          "client_id": "167781674351-oe0g0fb0jth9ttipr7qleg25vd9otjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhlaZwldm8ptVd53bt-JgRPYY20ns_dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167781674351-oe0g0fb0jth9ttipr7qleg25vd9otjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
